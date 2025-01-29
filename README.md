@@ -36,7 +36,7 @@ src/
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/projeto-java-api.git
+    git clone https://github.com/kurjata/projeto-java-api.git
     ```
 
 2. **Acesse o diretório do projeto**:
